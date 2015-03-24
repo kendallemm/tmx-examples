@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="4" height="4" tilewidth="32" tileheight="32" nextobjectid="1">
+ <properties>
+  <property name="prop1" value="val1"/>
+  <property name="prop2" value="val2"/>
+ </properties>
+ <tileset firstgid="1" name="example" tilewidth="32" tileheight="32">
+  <image source="tileset.png" width="64" height="64"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYAJiFiBmBGJmJJoFipmgYjCaBUkdAAUkACY=
+  </data>
+ </layer>
+</map>
